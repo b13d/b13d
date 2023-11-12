@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   ### About me
   
 - 😄 I am 22 years old
-- ⚡️ I have been programming for over 2 years.
+- ⚡️ I have been programming for over 3 years.
 - 🌱 I’m currently learning GraphQL
 - 👯 My portfolio on [Vercel](https://re-portfolio-two.vercel.app/)
 - 📫 Reach me by  [LinkedIn](https://www.linkedin.com/in/danila-boltach-615b3724a/) [email](mailto:boltach13022001@gmail.com)
