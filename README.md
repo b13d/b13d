@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <h1>Hi there, I'm Danila</h1>
-  <h3>Frontend Developer from Astrakhan</h3>
+  <h3>Unity Developer from Astrakhan</h3>
 </div>
 
 <div id="socials" align="center">
@@ -36,14 +36,12 @@ Here are some ideas to get you started:
   
 - 😄 I am 22 years old
 - ⚡️ I have been programming for over 3 years.
-- 🌱 I’m currently learning GraphQL
-- 👯 My portfolio on [Vercel](https://re-portfolio-two.vercel.app/)
 - 📫 Reach me by  [LinkedIn](https://www.linkedin.com/in/danila-boltach-615b3724a/) [email](mailto:boltach13022001@gmail.com)
-- 💬 I speak Russia
+- 💬 I speak Russia, English
 
 ### :hammer_and_wrench: Languages and tools
 
-<div id="tech">
+<!--<div id="tech">
   <img width="80px" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="80px" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="80px" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -55,7 +53,7 @@ Here are some ideas to get you started:
   <img width="80px" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img width="80px" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img width="80px" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />      
-</div>
+</div>!-->
 
 ### :fire: My Stats :
 
