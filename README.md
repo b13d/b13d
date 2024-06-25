@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <h1>Hi there, I'm Danila</h1>
-  <h3>Unity Developer from Astrakhan</h3>
+  <h3>Frontend Developer from Astrakhan</h3>
 </div>
 
 <div id="socials" align="center">
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   
   ### About me
   
-- 😄 I am 22 years old
+- 😄 I am 23 years old
 - ⚡️ I have been programming for over 3 years.
 - 📫 Reach me by  [LinkedIn](https://www.linkedin.com/in/danila-boltach-615b3724a/) [email](mailto:boltach13022001@gmail.com)
 - 💬 I speak Russia, English
