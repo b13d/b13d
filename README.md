@@ -34,8 +34,8 @@ Here are some ideas to get you started:
   
   ### About me
   
-- 😄 I am 23 years old
-- ⚡️ I have been programming for over 3 years.
+- 😄 I am 24 years old
+- ⚡️ I have been programming for over 4 years.
 - 📫 Reach me by  [LinkedIn](https://www.linkedin.com/in/danila-boltach-615b3724a/) [email](mailto:boltach13022001@gmail.com)
 - 💬 I speak Russia, English
 
